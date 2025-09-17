@@ -1,0 +1,31 @@
+# Archivos binarios y temporales
+bin/
+obj/
+
+# Archivos de configuración de usuario de Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Carpetas de Visual Studio
+.vs/
+
+# Archivos de compilación
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# Archivos generados por el sistema
+Thumbs.db
+*.DS_Store
+
+# Archivos de paquetes NuGet
+*.nupkg
+*.nuspec
+packages/
+
+# Archivos de publicación
+publish/
